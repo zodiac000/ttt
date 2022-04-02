@@ -1,0 +1,5 @@
+{
+  "base": ["road", "sidewalk"],
+  "cityscapses": [],
+  "DS": ["road", "sidewalk", "parking", "pole"]
+}

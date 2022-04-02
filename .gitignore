@@ -1,0 +1,10 @@
+*.pyc
+log.txt
+venv/
+.idea/
+*.png
+*/__pycache__
+labelme_tool/__pycache__/
+*.list
+*.bin
+*/data/*ls
